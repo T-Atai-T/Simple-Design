@@ -1,0 +1,397 @@
+@media screen and (max-width: 1115px) {
+    .logo {
+        margin-right: 0;
+    }
+
+    .section {
+        background: none;
+    }
+
+    .btn {
+        margin: 79px 15px 0 0;
+    }
+
+    .bloc:first-child {
+        width: 100%;
+        text-align: center;
+    }
+
+    .bloc:last-child {
+        display: none;
+    }
+
+    .wrapper-content {
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .picture {
+        padding: 0;
+    }
+
+    .wrapper-bloc:first-child {
+        min-width: 452px;
+    }
+
+    .wrapper-bloc {
+        width: auto;
+    }
+
+}
+
+@media screen and (max-width: 917px) {
+
+    .header {
+        margin-bottom: 55px;
+    }
+
+    .section {
+        margin-bottom: 0;
+    }
+
+    .caption {
+        margin: 0 auto 70px;
+    }
+
+    .main-section {
+        margin-bottom: 55px;
+    }
+
+    .wrap-bloc {
+        margin-bottom: 35px;
+    }
+
+    .inner {
+        display: block;
+    }
+
+    .bloc:first-child {
+        width: 100%;
+    }
+
+    .bloc:last-child {
+        display: flex;
+        justify-content: center;
+        padding-left: 0;
+        margin: 40px auto;
+        width: 100%;
+    }
+
+    .pic {
+        border-radius: 20px;
+        min-width: 375px;
+    }
+
+    .preview {
+        margin-bottom: 70px;
+    }
+
+    .wrapper-content {
+        display: flex;
+        flex-flow: wrap;
+    }
+
+    .wrapper-bloc:first-child {
+        width: 100%;
+        order: 1;
+    }
+
+    .wrapper-bloc:last-child {
+        margin: 0 auto;
+    }
+
+    .main-btn {
+        width: auto;
+    }
+
+    .picture {
+        padding: 0;
+        min-width: 336px;
+    }
+
+}
+
+@media screen and (max-width: 855px) {
+
+    .header-logo {
+        display: block;
+    }
+
+    .nav-btn {
+        position: absolute;
+        top: 36px;
+        right: 20px;
+        display: block;
+    }
+
+    .items {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .list {
+        padding-bottom: 0;
+    }
+
+    .caption {
+        font-size: 36px;
+    }
+
+    .box {
+        width: auto;
+    }
+
+    .main-btn {
+        margin-bottom: 54px;
+    }
+
+    .box:last-child {
+        padding: 74px 0 0 0;
+    }
+
+    .preview {
+        background: #FFF0E9;
+    }
+
+    .inner-bloc {
+        display: block;
+    }
+
+    .content {
+        margin: 0 auto 40px;
+        width: 50%;
+        min-width: 333px;
+    }
+
+    .contacts {
+        display: none;
+    }
+
+    .wrapper-bloc:last-child {
+        margin: 0 auto;
+    }
+
+    .heading {
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 750px) {
+
+    .nav-hidden {
+        height: 0;
+    }
+
+    .list {
+        padding-bottom: 10px;
+    }
+
+    .bloc {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .pic {
+        text-align: center;
+    }
+
+    .command {
+        font-size: 20px;
+        line-height: 24px;
+        margin-top: -20px;
+    }
+
+    .caption {
+        font-size: 20px;
+        line-height: 24px;
+        margin: 0 0 48px 0;
+    }
+
+    .main-text {
+        text-align: center;
+        margin: 66px 0 34px;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .page {
+        display: none;
+        font-size: 17px;
+    }
+
+    .text {
+        display: block;
+        text-align: center;
+    }
+
+    .title {
+        margin: 62px 0 0 4px;
+        font-size: 30px;
+        line-height: 37px;
+        font-weight: 600;
+    }
+
+    .wrapper-bloc:first-child {
+        width: 100%;
+    }
+
+    .wrapper-bloc:last-child {
+        margin: 42px auto 0;
+    }
+
+    .subtitle {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .page-text {
+        margin: 37px 0 36px 0;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .desc {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .wrap-items {
+        padding: 0 0 0 0;
+        border: none;
+    }
+
+    .items-list {
+        padding-bottom: 10px;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .wrap-items {
+        display: none;
+    }
+
+    .wrap-ul {
+        display: block;
+        margin: 69px 0 0 7px;
+    }
+
+    .btn {
+        margin: 17px 15px 41px 0;
+    }
+
+    .main-btn {
+        margin-bottom: 63px;
+    }
+
+    .box-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .excerpt {
+        margin: 15px 0 52px;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .wrap-link {
+        padding-bottom: 100px;
+    }
+
+    .heading {
+        margin: 0 0 40px 0;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .search {
+        padding: 18px 0 31px 18px;
+    }
+
+    .lower-section {
+        margin-bottom: 60px;
+    }
+
+    .rights {
+        padding: 33px 0;
+    }
+
+    .wrap-data {
+        background: url(../images/ic-phone.svg) right 141px top 30px no-repeat;
+    }
+
+    .btn {
+        padding: 20px;
+    }
+
+    .small-link {
+        padding: 20px;
+    }
+
+    .more {
+        padding: 20px 15px 20px 45px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .nav-hidden {
+        height: 0;
+    }
+
+    .items {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .main-btn {
+        display: block;
+    }
+
+    .btn {
+        display: block;
+        font-size: 14px;
+        padding: 15px 20px;
+    }
+
+    .small-link {
+        font-size: 14px;
+        padding: 15px 20px;
+    }
+
+    .more {
+        font-size: 14px;
+    }
+
+    .wrap-ul {
+        margin-top: 30px;
+    }
+
+    .wrapper-bloc:first-child {
+        min-width: 200px;
+    }
+
+    .subtitle {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .heading {
+        font-size: 24px;
+    }
+
+    .search {
+        font-size: 16px;
+    }
+
+    .footer-wrap {
+        display: block;
+        text-align: center;
+    }
+
+    .wrap-data {
+        display: none;
+    }
+}
